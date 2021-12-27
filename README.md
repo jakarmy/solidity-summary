@@ -9,7 +9,7 @@ This summary was based on EatTheBlocks YouTube tutorial on Solidity.
 While that is a great resource, here's a quick summary of the main points covered across hours of video content.
 This summary cuts to the chase. 😉
 
-Full video series:[here](https://youtu.be/p3C7jljTXaA)
+Full video series: [here](https://youtu.be/p3C7jljTXaA)
 
 ## Inside the Box
 Once you've downloaded or cloned the repository, you'll find files organized by chapters in the order they were originally presented.
@@ -48,7 +48,7 @@ More specifically, you'll find:
 
 
 ## Keep in mind
-* This tutorial was written with Solidity v0.8.7, a higher version from the original ETB tutorial that uses v0.5.11.
+* This tutorial was written with Solidity `v0.8.7`, a higher version from the original ETB tutorial that uses `v0.5.11`.
 * It's possible that some files throw errors when compiling. This is intentional since there's probably something in that file meant to teach you something can't / shoudn't be done 🙂.
 
 
